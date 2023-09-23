@@ -1,8 +1,5 @@
 # Test-project
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Customize configuration
+This is a prototyping project to test out vuejs and Docker, nginx implementations for load balancing
 
 
 ## Project Setup
